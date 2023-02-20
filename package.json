@@ -1,0 +1,23 @@
+{
+  "name": "school-management-system",
+  "version": "1.0.0",
+  "description": "This is a school management system that accepts and registers Student IDs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KayKongo/School-Management-System.git"
+  },
+  "author": "Prince Kongo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KayKongo/School-Management-System/issues"
+  },
+  "homepage": "https://github.com/KayKongo/School-Management-System#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.9.2"
+  }
+}
